@@ -289,7 +289,7 @@ a {
 
     #navbar {
         height: 180px;
-        position: relative;
+        position: fixed;
     }
 
     #navbar-container {
